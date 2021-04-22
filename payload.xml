@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+    <family>Kurus</family>
+    <message_type>Private</message_type>
+    <businessObjectId>Custom</businessObjectId>
+</data>
+
+
+<data>
+    <family>Starks</family>
+        <extendedFamily>Northmen</extendedFamily>
+    <message_type>Administration</message_type>
+    <businessObjectId>12345</businessObjectId>
+    <family>Guptas</family>
+        <extendedFamily>Aryas</extendedFamily>
+    <message_type>Administration</message_type>
+    <businessObjectId>97531</businessObjectId>
+</data>
